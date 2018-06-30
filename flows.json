@@ -673,7 +673,7 @@
         "name": "",
         "method": "GET",
         "ret": "obj",
-        "url": "http://devfestapp-test123.mybluemix.net/earthquakes",
+        "url": "<APPURL>/earthquakes",
         "tls": "",
         "x": 310,
         "y": 240,
