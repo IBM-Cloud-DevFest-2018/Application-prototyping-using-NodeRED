@@ -540,11 +540,11 @@
         "type": "http in",
         "z": "a27d22b5.d5bd28",
         "name": "",
-        "url": "/earthquakes",
+        "url": "/earthquakeinfo",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 143,
+        "x": 153,
         "y": 115,
         "wires": [
             [
@@ -673,7 +673,7 @@
         "name": "",
         "method": "GET",
         "ret": "obj",
-        "url": "<APPURL>/earthquakes",
+        "url": "<HOSTNAME>/earthquakeinfo",
         "tls": "",
         "x": 310,
         "y": 240,
